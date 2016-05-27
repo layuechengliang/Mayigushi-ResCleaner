@@ -38,7 +38,6 @@ class Cleaner {
                 def command = "rm " + PROJECT_DIR + finalFilePath;
                 println "${command}"
                 command.execute();
-
             }
         }
     }
