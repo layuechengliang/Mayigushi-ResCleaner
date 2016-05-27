@@ -1,0 +1,6 @@
+whitelist_01.png
+whitelist_02.png
+whitelist_03.png
+whitelist_01.xml
+whitelist_02.xml
+whitelist_03.xml
